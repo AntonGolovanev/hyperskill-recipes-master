@@ -19,7 +19,7 @@
 
 
 <details open="open">
-  <summary>Подробное описание задачи/<summary>
+  <summary>Подробное описание задачи /<summary>
   <ol>
   <li><a href="tasks/1-first-recipe/README.md">Первый рецепт</a>: Создание проекта Spring Boot с конечными точками</li>
   <li><a href="tasks/2-multiple-recipes/README.md">Множество рецептов</a>: Сохранение и удаление рецептов в памяти</li>
