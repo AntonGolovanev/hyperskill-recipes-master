@@ -1,4 +1,4 @@
-<h5 id="description">Описание</h5>
+<h5 id="description">Description</h5>
 
 <p>Our service can store only one recipe at a time which is not very convenient. In this stage, improve the service to store a lot of recipes and access recipes by a unique <code class="language-json">id</code>. Some changes in the recipe structure are also required.</p> 
 
