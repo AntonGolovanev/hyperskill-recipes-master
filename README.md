@@ -19,12 +19,12 @@
 
 
 <details open="open">
-  <summary>Task Details</summary>
+  <summary>Подробное описание задачи/summary>
   <ol>
-  <li><a href="tasks/1-first-recipe/README.md">First Recipe</a>: Создание проекта Spring Boot с конечными точками</li>
-  <li><a href="tasks/2-multiple-recipes/README.md">Multiple Recipes</a>: Сохранение и удаление рецептов в памяти</li>
-  <li><a href="tasks/3-store-a-recipe/README.md">Store a Recipe</a>: Сохранение и удаление рецептов из базы данных</li>
-  <li><a href="tasks/4-sort-and-update/README.md">Sort & Update</a> : Фильтрация результатов с помощью запросов</li>
-  <li><a href="tasks/5-more-chefs-to-the-table/README.md">More Chefs to the table</a>: Авторизация и аутентификация</li>
+  <li><a href="tasks/1-first-recipe/README.md">Первый рецепт</a>: Создание проекта Spring Boot с конечными точками</li>
+  <li><a href="tasks/2-multiple-recipes/README.md">Множество рецептов</a>: Сохранение и удаление рецептов в памяти</li>
+  <li><a href="tasks/3-store-a-recipe/README.md">Сохранение рецептов</a>: Сохранение и удаление рецептов из базы данных</li>
+  <li><a href="tasks/4-sort-and-update/README.md">Сортировка и обновление</a> : Фильтрация результатов с помощью запросов</li>
+  <li><a href="tasks/5-more-chefs-to-the-table/README.md">Больше поваров</a>: Авторизация и аутентификация</li>
   </ol>
 </details>
