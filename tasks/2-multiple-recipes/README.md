@@ -1,8 +1,8 @@
-<h5 id="description">Description</h5>
+<h5 id="description">Описание</h5>
 
-<p>Our service can store only one recipe at a time which is not very convenient. In this stage, improve the service to store a lot of recipes and access recipes by a unique <code class="language-json">id</code>. Some changes in the recipe structure are also required.</p>
+<p>Наш сервис может хранить только один рецепт за раз, что не очень удобно. На этом этапе необходимо усовершенствовать сервис для хранения большого количества рецептов и доступа к ним по уникальному номеру <code class="language-json">id</code>. Требуется также внести некоторые изменения в структуру рецепта.</p>
 
-<p>The new structure of a recipe includes the same 4 fields, but the type of two of them is different. <code class="language-json">ingredients</code> and <code class="language-json">directions</code> should now be arrays. Here's an example of the new structure:</p>
+<p>Новая структура рецепта включает те же 4 поля, но тип двух из них отличается. <code class="language-json">ingredients</code> и <code class="language-json">directions</code> теперь должны быть массивами. Вот пример новой структуры:</p>
 
 <pre><code class="language-json">{
    "name": "Warming Ginger Tea",
